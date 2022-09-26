@@ -5,4 +5,4 @@ Year   : SY 2021-24 <br>
 Skills : Python,Html,CSS,Java,JavaScript <br>
 -You can DM me on suratwala_jay<br>
 
-Currently working on Html and CSS for next few months as clg assingments
+Currently working on Data Leakage Detection for next few months as clg assingments
