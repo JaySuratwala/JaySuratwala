@@ -5,4 +5,4 @@ Year   : SY 2021-24 <br>
 Skills : Python, Html, CSS, Java, JavaScript, PHP <br>
 -You can DM me on suratwala_jay<br>
 
-Currently working on Data Leakage Detection for next few months.
+currently working on portfolio website 
