@@ -36,7 +36,9 @@
 ## 🌱 What I'm Learning:
 - Advanced JavaScript frameworks like React.js & Node.js.
 - MSc in Secure Software Engineering.
-- Secure, Formal, Concurrent Programming.
+- Secure, Formal & Concurrent Programming.
+- Cryptography & Blockchain.
+- Research Paper & Litrature Review.
 
 ---
 
