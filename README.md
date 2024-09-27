@@ -40,5 +40,3 @@
 
 ## 💡 Fun Fact:
 I love combining creative design with efficient code to craft user-friendly web experiences!
-
----
