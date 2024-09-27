@@ -1,7 +1,3 @@
-Here's a dynamic and advanced version of the README tailored for your profile:
-
----
-
 # Hi, I'm Jay Suratwala! 👋
 
 **🎂 Date of Birth:** 28th November 2003  
