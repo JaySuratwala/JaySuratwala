@@ -21,8 +21,8 @@
 2. **Encrytion-Hashing-Website-Using-PHP-**  
    This Python Flask web app handles user registration and authentication using SQLite for storage. Passwords are encrypted with AES and hashed using SHA256 for security. The app includes routes for registration, login, and basic user data protection, and can be extended for additional features.
 
-3. **Project Name 3**  
-   Description...
+3. **Simple-Notes-API**  
+   Develop a RESTful API for a note-taking app using Node.js, Express.js, and MongoDB to allow users to create, retrieve, update, and delete notes. Implement data validation, error handling, and optional basic authentication. Include API documentation and basic tests for functionality.
 
 ---
 
@@ -42,5 +42,3 @@
 I love combining creative design with efficient code to craft user-friendly web experiences!
 
 ---
-
-Feel free to modify the "Projects" section with actual projects and tweak any links accordingly. This README introduces you as an active learner and emphasizes your current portfolio project!
