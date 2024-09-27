@@ -28,15 +28,15 @@
 
 ## 📫 Get in Touch:
 - **DM Me:** [@suratwala_jay](https://www.instagram.com/suratwala_jay)  
-- **LinkedIn:** [Jay Suratwala](https://www.linkedin.com/in/jay-suratwala)  
-- **GitHub:** [Jay's GitHub](https://github.com/yourgithubusername)
+- **LinkedIn:** [Jay Suratwala](https://www.linkedin.com/in/jay-suratwala-526527208/)  
+- **GitHub:** [Jay's GitHub](https://github.com/JaySuratwala/)
 
 ---
 
 ## 🌱 What I'm Learning:
 - Advanced JavaScript frameworks like React.js & Node.js.
-- Diving deeper into Backend Development.
-- Exploring Machine Learning with Python.
+- MSc in Secure Software Engineering.
+- Secure, Formal, Concurrent Programming.
 
 ## 💡 Fun Fact:
 I love combining creative design with efficient code to craft user-friendly web experiences!
