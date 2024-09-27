@@ -18,8 +18,8 @@
 1. **Portfolio Website** *(In Progress)*  
    A personal portfolio showcasing my projects, skills, and achievements. Stay tuned for updates!
    
-2. **Project Name 2**  
-   Description...
+2. **Encrytion-Hashing-Website-Using-PHP-**  
+   This Python Flask web app handles user registration and authentication using SQLite for storage. Passwords are encrypted with AES and hashed using SHA256 for security. The app includes routes for registration, login, and basic user data protection, and can be extended for additional features.
 
 3. **Project Name 3**  
    Description...
