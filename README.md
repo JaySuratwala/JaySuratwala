@@ -41,17 +41,6 @@
  
 <img src="https://github.com/1n40/1n40/blob/main/walk.gif?raw=true" align="right" width="25%"> -->
 
-
-```http
-$ http GET localhost/intro.php?cmd=whoami
-
-
-HTTP/1.0 200 OK
-Content-Type: application/json
-Content-Length: 265
-Set-Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJLbm9jay1Lbm9jayI6Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZFF3NHc5V2dYY1EiLCJTaXgtdGltZXMiOiJWbXBLTkZVeFJYaFVXR2hUWW1zMVdGbFhlSGRXUm14VlVtdDBWbEpzYkROV1YzUkxWVVpXVlUxRWF6MD0ifQ.VM0XbrnYGuZ4H1WWOWoQuGcYhCX6403FpFtGiAxsBeU
-Server: Werkzeug/2.0.1 Python/3.9.0
-
 {
   "Name": "Jay Suratwala",
   "whoami": "MSc Secure Software Engineering @ DCU",
