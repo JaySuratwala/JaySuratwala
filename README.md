@@ -28,19 +28,18 @@
 
 <span style="color:green;">HTTP/1.1 200 OK</span><br/>
 <span style="color:blue;">Content-Type:</span> <span style="color:white;">application/json</span><br/><br/>
-
 ```
-<!-- </pre> -->
 
 
 
 
-<h1 align="center">👨🏽‍💻</h1>
+
+<!-- <h1 align="center">👨🏽‍💻</h1>
 
 
 <img src="https://github.com/1n40/1n40/blob/main/intro.gif?raw=true">
  
-<img src="https://github.com/1n40/1n40/blob/main/walk.gif?raw=true" align="right" width="25%">
+<img src="https://github.com/1n40/1n40/blob/main/walk.gif?raw=true" align="right" width="25%"> -->
 
 
 ```http
