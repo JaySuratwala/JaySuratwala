@@ -58,17 +58,6 @@ Server: Werkzeug/2.0.1 Python/3.9.0
   "Domain": ["Cybersecurity", "Blockchain", "AI/ML"],
   "Skills": ["C", "Python", "Solidity", "PHP", "JavaScript", "Java"],
   "Tools": ["Linux", "Docker", "MySQL", "Git", "React", "TensorFlow"],
-  "Working_on": "ML-based Vulnerability Detection for Smart Contracts",
-  "Learning": ["Advanced Cryptography", "Concurrent Programming", "Secure Coding"],
-  "Projects": [
-    "CoreFinXpert (Next.js)",
-    "Encryption-Hashing Website (PHP)",
-    "Notes API (RESTful)"
-  ],
-  "Profiles": {
-    "LinkedIn": "linkedin.com/in/jay-suratwala",
-    "Portfolio": "jaysuratwala.github.io/jay_suratwala",
-    "GitHub": "github.com/JaySuratwala"}
 }
 ```
 
