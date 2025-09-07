@@ -15,7 +15,7 @@ Content-Type:application/json<br/><br/>
   "Skills": ["C", "Python", "Solidity", "PHP", "JavaScript", "Java"],
   "Tools": ["Linux", "Docker", "MySQL", "Git", "React", "TensorFlow"],
 }
-✨ "Code. Secure. Break. Fix. Repeat."
+"Code. Secure. Break. Fix. Repeat."
 ```
 
 <br>
