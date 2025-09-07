@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Secure Software Engineering enthusiast</h3>
 
 
-```http
+```
 ┌──(user㉿kali)-[~/home]<br/>
 └─$http GET localhost/profile?cmd=whoami<br/><br/>
 
