@@ -30,20 +30,9 @@
 <span style="color:blue;">Content-Type:</span> <span style="color:white;">application/json</span><br/><br/>
 ```
 
-
-
-
-
-<!-- <h1 align="center">👨🏽‍💻</h1>
-
-
-<img src="https://github.com/1n40/1n40/blob/main/intro.gif?raw=true">
- 
-<img src="https://github.com/1n40/1n40/blob/main/walk.gif?raw=true" align="right" width="25%"> -->
-
 {
   "Name": "Jay Suratwala",
-  "whoami": "MSc Secure Software Engineering @ DCU",
+  "College": "MSc Secure Software Engineering @ DCU",
   "Domain": ["Cybersecurity", "Blockchain", "AI/ML"],
   "Skills": ["C", "Python", "Solidity", "PHP", "JavaScript", "Java"],
   "Tools": ["Linux", "Docker", "MySQL", "Git", "React", "TensorFlow"],
