@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Secure Software Engineering enthusiast</h3>
 
 <div style="background-color:#000000; padding:15px; border-radius:10px; font-family:monospace;">
-<!-- <pre> -->
-<!-- <code> -->
-<!-- <clipboard-copy value="{
+<pre>
+<code>
+<clipboard-copy value="{
   Name: Jay Suratwala,
   whoami: MSc Secure Software Engineering @ DCU,
   Domain: [Cybersecurity, Blockchain, AI/ML],
@@ -21,7 +21,7 @@
     LinkedIn: linkedin.com/in/jay-suratwala,
     Portfolio: jaysuratwala.github.io/jay_suratwala,
     GitHub: github.com/JaySuratwala
-  }"> -->
+  }">
 ```
 ┌──(user㉿kali)-[~/home]<br/>
 └─$http GET localhost/profile?cmd=whoami<br/><br/>
@@ -35,6 +35,8 @@ Content-Type:application/json<br/><br/>
   "Skills": ["C", "Python", "Solidity", "PHP", "JavaScript", "Java"],
   "Tools": ["Linux", "Docker", "MySQL", "Git", "React", "TensorFlow"],
 }
+</code>
+</pre>
 ```
 <br>
 ---
