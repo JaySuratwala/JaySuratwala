@@ -37,15 +37,13 @@ Content-Type:application/json<br/><br/>
 </code>
 </pre>
 <br>
-## 📊 GitHub Stats  
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysuratwala&count_private=true&show_icons=true&hide_border=true&theme=blue-green" alt="Top Languages" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaysuratwala&count_private=true&show_icons=true&hide_border=true&theme=blue-green" alt="GitHub Stats" />
-</p><br>
+</p>
 ✨ "Code. Secure. Break. Fix. Repeat."
 <br><br>
 <p>
