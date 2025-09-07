@@ -37,6 +37,7 @@ Content-Type:application/json<br/><br/>
 }
 ```
 <br>
+---
 ## 📊 GitHub Stats  
 
 <p>
