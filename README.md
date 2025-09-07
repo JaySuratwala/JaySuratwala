@@ -23,11 +23,11 @@
     GitHub: github.com/JaySuratwala
   }"> -->
 ```
-<span style="color:cyan; background-color:red;">┌──(</span><span style="color:red;">user㉿kali</span><span style="color:cyan;">)-[~/home]</span><br/>
-<span style="color:cyan;">└─$</span> <span style="color:white;">http GET localhost/profile?cmd=whoami</span><br/><br/>
+┌──(user㉿kali)-[~/home]<br/>
+└─$http GET localhost/profile?cmd=whoami<br/><br/>
 
-<span style="color:green;">HTTP/1.1 200 OK</span><br/>
-<span style="color:blue;">Content-Type:</span> <span style="color:white;">application/json</span><br/><br/>
+HTTP/1.1 200 OK<br/>
+Content-Type:application/json<br/><br/>
 {
   "Name": "Jay Suratwala",
   "College": "MSc Secure Software Engineering @ DCU",
