@@ -45,7 +45,7 @@ Content-Type:application/json<br/><br/>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaysuratwala&count_private=true&show_icons=true&hide_border=true&theme=blue-green" alt="GitHub Stats" />
-</p><br><br>
+</p><br>
 ✨ "Code. Secure. Break. Fix. Repeat."
 <br><br>
 <p>
