@@ -38,13 +38,7 @@
   "Tools": ["Linux", "Docker", "MySQL", "Git", "React", "TensorFlow"],
 }
 ```
-
-
-    
-    
 <br>
----
-
 ## 📊 GitHub Stats  
 
 <p>
