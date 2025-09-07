@@ -47,3 +47,53 @@
 ---
 
 ✨ <i style="color:red;">"Code. Secure. Break. Fix. Repeat."</i>
+
+<h1 align="center">Hi 👋, I'm Jay</h1>
+<h3 align="center">A passionate Cybersecurity & Secure Software Engineering enthusiast</h3>
+
+<pre>
+<code>
+<clipboard-copy value="$ http GET localhost/profile?cmd=whoami">
+┌──(user㉿kali)-[~/home]
+└─$ http GET localhost/profile?cmd=whoami
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "Name": "Jay Suratwala",
+  "whoami": "MSc Secure Software Engineering @ DCU",
+  "Domain": ["Cybersecurity", "Blockchain", "AI/ML"],
+  "Skills": ["C", "Python", "Solidity", "PHP", "JavaScript", "Java"],
+  "Tools": ["Linux", "Docker", "MySQL", "Git", "React", "TensorFlow"],
+  "Working_on": "ML-based Vulnerability Detection for Smart Contracts",
+  "Learning": ["Advanced Cryptography", "Concurrent Programming", "Secure Coding"],
+  "Projects": [
+    "CoreFinXpert (Next.js)",
+    "Encryption-Hashing Website (PHP)",
+    "Notes API (RESTful)"
+  ],
+  "Profiles": {
+    "LinkedIn": "linkedin.com/in/jay-suratwala",
+    "Portfolio": "jaysuratwala.github.io/jay_suratwala",
+    "GitHub": "github.com/JaySuratwala"
+  }
+}
+</code>
+</pre>
+
+---
+
+## 📊 GitHub Stats  
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysuratwala&count_private=true&show_icons=true&hide_border=true&theme=blue-green" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaysuratwala&count_private=true&show_icons=true&hide_border=true&theme=blue-green" alt="GitHub Stats" />
+</p>
+
+---
+
+✨ "Code. Secure. Break. Fix. Repeat."
