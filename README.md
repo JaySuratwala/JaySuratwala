@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 🧑🏽‍💻</h1>
 <h3 align="center">A passionate Secure Software Engineering enthusiast</h3>
+
+
 ```http
 ┌──(user㉿kali)-[~/home]<br/>
 └─$http GET localhost/profile?cmd=whoami<br/><br/>
@@ -14,8 +16,6 @@ Content-Type:application/json<br/><br/>
   "Tools": ["Linux", "Docker", "MySQL", "Git", "React", "TensorFlow"],
 }
 ```
-
-
 
 <br>
 <p>
