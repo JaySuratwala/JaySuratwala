@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 🧑🏽‍💻🧑‍💻</h1>
-<h3 align="center">A passionate Cybersecurity & Secure Software Engineering enthusiast</h3>
+<h3 align="center">A passionate Secure Software Engineering enthusiast</h3>
 
 <div style="background-color:#000000; padding:15px; border-radius:10px; font-family:monospace;">
 
@@ -29,12 +29,6 @@
     Portfolio: jaysuratwala.github.io/jay_suratwala,
     GitHub: github.com/JaySuratwala
   }">
-┌──(user㉿kali)-[~/home]
-└─$ http GET localhost/profile?cmd=whoami
-
-HTTP/1.1 200 OK
-Content-Type: application/json
-
 {
   "Name": "Jay Suratwala",
   "whoami": "MSc Secure Software Engineering @ DCU",
