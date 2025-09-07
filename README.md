@@ -1,24 +1,6 @@
 <h1 align="center">Hi there 🧑🏽‍💻</h1>
 <h3 align="center">A passionate Secure Software Engineering enthusiast</h3>
-<code style="background-color:red;">
-<clipboard-copy value="{
-  Name: Jay Suratwala,
-  whoami: MSc Secure Software Engineering @ DCU,
-  Domain: [Cybersecurity, Blockchain, AI/ML],
-  Skills: [C, Python, Solidity, PHP, JavaScript, Java],
-  Tools: [Linux, Docker, MySQL, Git, React, TensorFlow],
-  Working_on: ML-based Vulnerability Detection for Smart Contracts,
-  Learning: [Advanced Cryptography, Concurrent Programming, Secure Coding],
-  Projects: [
-    CoreFinXpert (Next.js),
-    Encryption-Hashing Website (PHP),
-    Notes API (RESTful)
-  ],
-  Profiles: {
-    LinkedIn: linkedin.com/in/jay-suratwala,
-    Portfolio: jaysuratwala.github.io/jay_suratwala,
-    GitHub: github.com/JaySuratwala
-  }">
+```
 ┌──(user㉿kali)-[~/home]<br/>
 └─$http GET localhost/profile?cmd=whoami<br/><br/>
 
@@ -31,7 +13,6 @@ Content-Type:application/json<br/><br/>
   "Skills": ["C", "Python", "Solidity", "PHP", "JavaScript", "Java"],
   "Tools": ["Linux", "Docker", "MySQL", "Git", "React", "TensorFlow"],
 }
-</code>
 <br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysuratwala&count_private=true&show_icons=true&hide_border=true&theme=blue-green" alt="Top Languages" />
