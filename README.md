@@ -22,7 +22,6 @@
     Portfolio: jaysuratwala.github.io/jay_suratwala,
     GitHub: github.com/JaySuratwala
   }">
-```
 ┌──(user㉿kali)-[~/home]<br/>
 └─$http GET localhost/profile?cmd=whoami<br/><br/>
 
@@ -37,9 +36,7 @@ Content-Type:application/json<br/><br/>
 }
 </code>
 </pre>
-```
 <br>
----
 ## 📊 GitHub Stats  
 
 <p>
