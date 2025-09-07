@@ -3,11 +3,11 @@
 
 
 ```http
-┌──(user㉿kali)-[~/home]<br/>
-└─$http GET localhost/profile?cmd=whoami<br/><br/>
+┌──(user㉿kali)-[~/home]
+└─$http GET localhost/profile?cmd=whoami
 
-HTTP/1.1 200 OK<br/>
-Content-Type:application/json<br/><br/>
+HTTP/1.1 200 OK
+Content-Type:application/json
 {
   "Name": "Jay Suratwala",
   "College": "MSc Secure Software Engineering @ DCU",
