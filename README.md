@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 🧑🏽‍💻</h1>
 <h3 align="center">A passionate Secure Software Engineering enthusiast</h3>
-<code>
+<code style="background-color:red;">
 <clipboard-copy value="{
   Name: Jay Suratwala,
   whoami: MSc Secure Software Engineering @ DCU,
