@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 🧑🏽‍💻</h1>
-<h3 align="center">A passionate Secure Software Engineering enthusiast</h3>
+<h3 align="center">A Security Opreations Center Analyst</h3>
 
 
 ```http
@@ -12,20 +12,20 @@ Content-Type:application/json
   "Name": "Jay Suratwala",
   "College": "MSc Secure Software Engineering @ DCU",
   "Domain": ["Cybersecurity", "Blockchain", "AI/ML"],
-  "Skills": ["C", "Python", "Solidity", "PHP", "JavaScript", "Java"],
-  "Tools": ["Linux", "Docker", "MySQL", "Git", "React", "TensorFlow"],
+  "Skills": ["C", "Python", "SIEM & EDR", "Detection Engineering ", "Security Operations & Incident Response", "Log Management and Handling", "Network & System Fundamentals", "Endpoint & Threat Analysis","Frameworks & Methodologies", "Customer & Process Skills"],
+  "Tools": ["Linux", "Docker", "Splunk", "Kibana", "Elastic", "Wazuh"],
 }
 "Code. Secure. Break. Fix. Repeat."
 ```
 
 <br>
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysuratwala&count_private=true&show_icons=true&hide_border=true&theme=blue-green" alt="Top Languages" />
 </p>
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaysuratwala&count_private=true&show_icons=true&hide_border=true&theme=blue-green" alt="GitHub Stats" />
-</p>
+</p> --> -->
 <p>
 <a href="https://linkedin.com/in/jay-suratwala-526527208/" title="linkedin" ><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" width="16%" height="4%"></a>  <a href="mailto:jaysuratwala18@gmail.com" title="gmail"><img align="right" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="5%" height="5%"></a>
 </p>
