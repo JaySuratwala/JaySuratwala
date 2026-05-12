@@ -12,7 +12,9 @@ Content-Type:application/json
   "Name": "Jay Suratwala",
   "College": "MSc Secure Software Engineering @ DCU",
   "Domain": ["Cybersecurity", "Blockchain", "AI/ML"],
-  "Skills": ["C", "Python", "SIEM & EDR", "Detection Engineering ", "Security Operations & Incident Response", "Log Management and Handling", "Network & System Fundamentals", "Endpoint & Threat Analysis","Frameworks & Methodologies", "Customer & Process Skills"],
+  "Skills": ["C", "Python", "SIEM & EDR", "Detection Engineering ", "Security Operations & Incident Response",
+            "Log Management and Handling", "Network & System Fundamentals", "Endpoint & Threat Analysis",
+            "Frameworks & Methodologies", "Customer & Process Skills"],
   "Tools": ["Linux", "Docker", "Splunk", "Kibana", "Elastic", "Wazuh"],
 }
 "Code. Secure. Break. Fix. Repeat."
